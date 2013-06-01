@@ -1,0 +1,11 @@
+The Ps command shows all the processes I am running and if I do ps aux it shows eveyones
+processes.If you want to see how many processes are running for a specific program you can 
+use the ps command and the program.
+The loop program will run non stop; to bring the 
+program to the forground you can put the fg command while its running
+and it will keep it running even if you exit the program. 
+To stop the program you can type in kill and the pid number. If that doesn't work you can use 
+the command kill -9. You can put in the command ^z and it will suspend the program, but it 
+wont kill it; the program will still show that it is active when the ps command is 
+entered. The jobs command lists the jobs that you are running in the background and in
+the foreground.  

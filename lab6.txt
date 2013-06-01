@@ -1,0 +1,16 @@
+
+From: http://www-ugrad.cs.colorado.edu/unix/regex.html
+
+Say we have a file called literature containing the following text.
+"Prepare to embrace your creators in the stygian haunts of hell,
+barbarian", gasped the first soldier.
+"Only after you have kissed the fleeting stead of death, wretch!"
+returned Grignr.
+.
+A sweeping blade of flashing steel riveted from the massive barbarians
+hide enameled shield as his rippling right arm thrust forth, sending a
+steel shod blade to the hilt into the soldiers vital organs. The disemboweled 
+mercenary crumpled from his saddle and sank to the clouded sward, 
+sprinkling the parched dust with crimson droplets of escaping life
+fluid.
+

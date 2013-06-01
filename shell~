@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Today's date is:" 
+#date "+%h %e %Y"
+date | cut -c5-11,25-28
+echo Current working directory is: `pwd` 

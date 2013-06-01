@@ -1,0 +1,5 @@
+The Ps command shows all the processes I am running and if I do ps aux it shows eveyones
+processes. you can run the program loop and it will run the program non stop; to bring the 
+program to the forground you can put fg and it will keep it running even if you exit the program. 
+To stop the program you can type in kill and the pid number. If that doesn't work you can use 
+the command kill -9. 

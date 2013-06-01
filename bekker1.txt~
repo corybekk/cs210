@@ -1,0 +1,6 @@
+I found the name of my computer by typing /sbin/ifconfig.
+I had my neighbor do the same thing. Once I got the name
+of his computer I used ssh -X and typed in his computers
+name. I used the Dar25-28... password to log onto his computer.
+Also to be able to log onto his computer I think he had to 
+put in the command host+ or something. Once I was logged
